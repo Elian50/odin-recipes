@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    background-image: url(./images/Backgroung.jpg);
+}
+
+.title {
+    color:lightyellow;
+    background-color:rgba(30, 98, 57, 0.5);
+    font-weight: bold;
+    font-size: 40px;
+    display: inline-block;
+    margin: 0px auto;
+    padding: 8px 16px;
+    border: 2px dashed rgba(86, 50, 50, 0.9);
+    font-family:Helvetica, sans-serif;
+}
+
+
+li {
+    list-style-image: url(./images/whisk_list.png);
+}
+
+.recipes {
+    font-size: 32px;
+    color: lightyellow;
+    font-weight: bold;
+    font-family: Helvetica,sans-serif;
+}
